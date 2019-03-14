@@ -1,6 +1,6 @@
 .header-home 
     {
-        background-image: -webkit-linear-gradient(145deg,#faa61f 0%, #ed1847 100%);
+        background: linear-gradient(to left, #3399ff 0%, #cc00ff 100%);
         position: relative;
         width: 100%;
         padding-top: 185px;
@@ -255,7 +255,7 @@
 
     .secondary
     {
-        background-image: -webkit-linear-gradient(145deg, #faa61f 0%,#ed1847 100%);
+        background: linear-gradient(to left, #3399ff 0%, #cc00ff 100%);
         transition: all 1.5s  ease-in-out;
     }
 
@@ -415,7 +415,7 @@
 
     .menu-icon {
     width: 100%;
-    background-image: -webkit-linear-gradient(145deg,#faa61f 0%, #ed1847 100%);
+    background: linear-gradient(to left, #3399ff 0%, #cc00ff 100%);
     text-align: right;
     box-sizing: border-box;
     padding: 15px 24px;
@@ -434,7 +434,7 @@
     width: 100%;
     height: auto;
     margin: auto;
-    background-image: -webkit-linear-gradient(145deg,#faa61f 0%, #ed1847 100%);
+    background: linear-gradient(to left, #3399ff 0%, #cc00ff 100%);
     padding: 20px 0px;
     }
 
@@ -465,7 +465,7 @@
 
     .footer-social-icons ul li a {
     background-color: white;
-    color:-webkit-linear-gradient(145deg,#faa61f 0%, #ed1847 100%);
+    background: linear-gradient(to left, #3399ff 0%, #cc00ff 100%);
     border-radius: 50%;
     font-size: 25px;
     display: block;
